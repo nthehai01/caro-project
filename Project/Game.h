@@ -1,0 +1,33 @@
+#pragma once
+#include<fstream>
+using namespace std;
+void FixConsoleWindow();
+void Color(int c);
+void Caro();
+void StartGame(int a[][100], int n, string s1, string s2, int d1, int d2, int i);
+void ResetData(int a[][100], int n);
+void DrawBoard(int a[][100], int n, string s1, string s2, int d1, int d2, int i);
+void CheckBoard(int a[][100], int n, string s1, string s2, int d1, int d2, int t, int i);
+void GoToXY(int x, int y);
+void Move(int n, int& x, int& y, char c);
+void Process1(int x, int y, int a[][100], int n, string s1, string s2, int& d1, int& d2, int t, int& i);
+void Process2(int x, int y, int a[][100], int n, string s1, string s2, int& d1, int& d2, int t, int& i);
+int Law(int a[][100], int n);
+void AskContinue(int x, int y, int a[][100], int n, string s1, string s2, int d1, int d2, int t, int& i);
+void AskSave(int x, int y, int a[][100], int n, string s1, string s2, int d1, int d2, int t, int i);
+void SaveGame(int a[][100], int n, string s1, string s2, int d1, int d2, int t, int i, ofstream& fout);
+void NewGame(int& n, string& s1, string& s2);
+void LoadGame(int a[][100], int& n, string& s1, string& s2, int& d1, int& d2, int& t, int& i, ifstream& fin);
+void Help();
+void About();
+void GameMenu();
+void Move1(int& y, char c);
+void Cout1(int y);
+void Move2(int& x, char c);
+void Cout2(int x);
+void ClearScreen();
+string Standardized(string& s);
+void Move3(char c, int& y, int& i, int m);
+void Cout3(string str[], int y, int i);
+void Out(string s, int u);
+int SoSanh(char s1[], char s2[]);

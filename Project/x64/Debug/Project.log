@@ -1,0 +1,24 @@
+﻿  Caro.cpp
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(93,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(94,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(318,12): warning C4101: 'j': unreferenced local variable
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(519,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(608,15): warning C4101: 'k': unreferenced local variable
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(608,12): warning C4101: 'l': unreferenced local variable
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(749,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(865,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(1009,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(1013,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(1017,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(1021,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(1025,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(1032,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(1037,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(1042,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(1047,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(1052,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Main.cpp(3,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+C:\Users\ntheh\Google Drive\Programming\C C++\CARO\Project\Caro.cpp(285): warning C4715: 'Law': not all control paths return a value
+  Project.vcxproj -> C:\Users\ntheh\Google Drive\Programming\C C++\CARO\x64\Debug\Project.exe
